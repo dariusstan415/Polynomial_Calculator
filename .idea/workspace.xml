@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="affce66e-4e99-4915-b6c7-10b01b3ad61a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/businessLogic/OperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataModels/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataModels/Polynomial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GraphicalUserInterface/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GraphicalUserInterface/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GraphicalUserInterface/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GraphicalUserInterface/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessLogic/OperationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/Operations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataModels/Polynomial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataModels/Polynomial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GraphicalUserInterface/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classpath.index" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classpath.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BusinessLogic/OperationsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BusinessLogic/OperationsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpath.index" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/classpath.index" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NbzkkjMiYsQkQhEYobU84eUeQ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "D:/Assigment01/src/main/java/businessLogic",
+    "last_opened_file_path": "D:/Assigment01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="BusinessLogic" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="affce66e-4e99-4915-b6c7-10b01b3ad61a" name="Changes" comment="" />
+      <created>1679947716785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679947716785</updated>
+      <workItem from="1679947717961" duration="20803000" />
+      <workItem from="1680015576370" duration="129000" />
+      <workItem from="1680027135654" duration="23213000" />
+      <workItem from="1680071718240" duration="206000" />
+      <workItem from="1680074206730" duration="2397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
